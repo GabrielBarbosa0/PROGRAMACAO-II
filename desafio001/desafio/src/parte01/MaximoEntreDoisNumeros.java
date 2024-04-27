@@ -14,5 +14,3 @@
 //         System.out.println("O máximo entre " + numero1 + " e " + numero2 + " é: " + maximo);
 //     }
 // }
-
-
