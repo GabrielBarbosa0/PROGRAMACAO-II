@@ -1,4 +1,9 @@
 // package parte01;
+
+// Gabriel Gomes barbosa
+
+// Parte 01 letra A
+
 // import java.util.Scanner;
 
 // public class CelsiusParaFahrenheit {
@@ -12,4 +17,3 @@
 //         System.out.println("A temperatura em Fahrenheit é: " + fahrenheit);
 //     }
 // }
-
